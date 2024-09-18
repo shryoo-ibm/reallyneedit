@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1528150_reallyne.admin" name="x_1528150_reallyne.admin">b5a9324097341210877930fce053af05</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-17 20:57:03</sys_created_on>
+        <sys_id>3da9324097341210877930fce053af08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b5a9324097341210877930fce053af05</sys_name>
+        <sys_package display_value="ReallyNeedIt" source="x_1528150_reallyne">6a09f2c097341210877930fce053aff1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReallyNeedIt">6a09f2c097341210877930fce053aff1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3da9324097341210877930fce053af08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-17 20:57:03</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

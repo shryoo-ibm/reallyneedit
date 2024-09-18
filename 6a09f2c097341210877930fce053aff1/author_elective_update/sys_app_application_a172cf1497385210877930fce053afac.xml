@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 16:14:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a172cf1497385210877930fce053afac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReallyNeedIt</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="ReallyNeedIt" source="x_1528150_reallyne">6a09f2c097341210877930fce053aff1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ReallyNeedIt">6a09f2c097341210877930fce053aff1</sys_scope>
+        <sys_update_name>sys_app_application_a172cf1497385210877930fce053afac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 16:14:09</sys_updated_on>
+        <title>ReallyNeedIt</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ReallyNeedIt">6a09f2c097341210877930fce053aff1</application>
+        <file_path/>
+        <instance_id>80fa2c471bc686507d9d2f8dee4bcb29</instance_id>
+        <instance_name>dev269423</instance_name>
+        <name>sys_app_application_a172cf1497385210877930fce053afac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-18 16:14:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a172cf1497385210877930fce053afac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ReallyNeedIt</sys_name><sys_overrides/><sys_package display_value="ReallyNeedIt" source="x_1528150_reallyne">6a09f2c097341210877930fce053aff1</sys_package><sys_policy/><sys_scope display_value="ReallyNeedIt">6a09f2c097341210877930fce053aff1</sys_scope><sys_update_name>sys_app_application_a172cf1497385210877930fce053afac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-18 16:14:09</sys_updated_on><title>ReallyNeedIt</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-1519164677</payload_hash>
+        <record_name>ReallyNeedIt</record_name>
+        <reverted_from/>
+        <source>2209f2c097341210877930fce053aff6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 16:14:09</sys_created_on>
+        <sys_id>ab724f1497385210877930fce053af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19205e99def0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 16:14:09</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>af724f1402385210100e1e6ff417f668</update_guid>
+        <update_guid_history>af724f1402385210100e1e6ff417f668:-1519164677</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ReallyNeedIt">b7a4871897385210877930fce053afd1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-18 16:23:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>203363e7f2bf4c5e99888652502252a9</sys_id>
+        <sys_metadata>a172cf1497385210877930fce053afac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReallyNeedIt</sys_name>
+        <sys_package display_value="ReallyNeedIt" source="x_1528150_reallyne">6a09f2c097341210877930fce053aff1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ReallyNeedIt">6a09f2c097341210877930fce053aff1</sys_scope>
+        <sys_scope_delete display_value="">010d9d1123974c709026eaf77ce48c40</sys_scope_delete>
+        <sys_update_name>sys_app_application_a172cf1497385210877930fce053afac</sys_update_name>
+        <sys_update_version display_value="sys_app_application_a172cf1497385210877930fce053afac">ab724f1497385210877930fce053af69</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-18 16:23:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
